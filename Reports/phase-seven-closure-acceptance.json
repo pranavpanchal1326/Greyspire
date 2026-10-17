@@ -1,0 +1,98 @@
+{
+  "phase": 7,
+  "gate": "G6",
+  "result": "PASS",
+  "checked_at": "2026-10-15T12:24:44.112648+05:30",
+  "fresh_since": "2026-10-15T12:03:31.7070573+05:30",
+  "baseline_checkpoint": {
+    "checkpoint": "D:\\game\\Backups\\phase-seven-complete-20261015",
+    "manifest_sha256": "9662ECACE26737BE1219B5FAC35848B611DBD81F867BE0A07782099269836154",
+    "checkpoint_files": 589,
+    "live_comparisons": 588,
+    "errors": [],
+    "result": "PASS"
+  },
+  "unchanged_runtime_input_files": 430,
+  "checks": {
+    "save-safety": 103,
+    "contact": 65,
+    "feel": 29,
+    "terrain": 58,
+    "growth": 194,
+    "objective": 120,
+    "feedback": 178,
+    "production": 201
+  },
+  "total_checks": 948,
+  "scenarios": [
+    "both rescue branches and skip",
+    "tower route/follow/hunt"
+  ],
+  "stress": {
+    "duration_seconds": "609.7068",
+    "frames": "49765",
+    "median_frame_ms": "13.1334",
+    "p95_frame_ms": "17.2044",
+    "p99_frame_ms": "20.6537",
+    "peak_gc_allocated_frame_bytes": "557655",
+    "peak_native_meshes": "386",
+    "owned_assets": "83",
+    "dash_slots": "28",
+    "world_voice_capacity": "12"
+  },
+  "export_evidence": {
+    "rows": 1769,
+    "events": {
+      "action": 1,
+      "batch_probe": 512,
+      "contact": 3,
+      "despawn": 3,
+      "kill_reward": 2,
+      "player_defeat": 1,
+      "save_commit": 12,
+      "scope_start": 20,
+      "screen": 10,
+      "session_end": 1,
+      "session_start": 1,
+      "stress_probe": 1200,
+      "summary_falls": 1,
+      "summary_hits_taken": 1,
+      "summary_kills": 1
+    },
+    "transitions": 18,
+    "steady_native_counts": {
+      "town": {
+        "owned_assets": "61",
+        "meshes": "311",
+        "materials": "610"
+      },
+      "floor": {
+        "owned_assets": "35",
+        "meshes": "281",
+        "materials": "614"
+      },
+      "wilds": {
+        "owned_assets": "250",
+        "meshes": "386",
+        "materials": "724"
+      }
+    },
+    "csv_escaping": "verified",
+    "event_ids": "unique",
+    "seed_metadata": "verified",
+    "result": "PASS"
+  },
+  "runtime_dll_sha256": "FE242FF14283C410C5D913FA48A98C46FE6FAAA328E71E1514ACF89C3C71AF03",
+  "errors": [],
+  "windows_player_smoke": {
+    "log": "Logs/phase-seven-player-smoke.log",
+    "capture": null,
+    "capture_result": "UNAVAILABLE: hidden window has no capturable backbuffer",
+    "scope": "Built player startup, clean exit and isolated save. Visual review uses fresh editor captures; no standalone player visual sign-off is claimed."
+  },
+  "next_phase": 8,
+  "next_gate": "G7",
+  "next_gate_deliverable": "Branching pilot",
+  "phase_eight_authorized_to_start": true,
+  "scope": "Technical acceptance for the recorded local fixtures and Windows build. Human campaign, listening, comfort and target-hardware certification remain open."
+}

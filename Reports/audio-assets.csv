@@ -1,0 +1,38 @@
+id,requirement,priority,bus,takes,gaps,status
+fuse,Critical,Threat,world,1,,ok
+roar,Critical,Threat,world,2,,ok
+slam,Critical,Threat,world,3,,ok
+boom,Critical,Threat,world,3,,ok
+shoot,Critical,Threat,world,3,,ok
+hurt,Critical,Threat,world,3,,ok
+perfect,Critical,Threat,world,2,,ok
+hit,Required,Contact,world,5,,ok
+crit,Required,Contact,world,5,,ok
+kill,Required,Contact,world,5,,ok
+swing,Required,Contact,world,5,,ok
+burst,Required,Contact,world,2,,ok
+spawn,Required,Contact,world,2,,ok
+step,Required,Foley,world,5,,ok
+land,Required,Foley,world,3,,ok
+jump,Required,Foley,world,2,,ok
+dash,Required,Foley,world,3,,ok
+buy,Required,Feedback,UI,2,,ok
+card,Required,Feedback,UI,2,,ok
+click,Required,Feedback,UI,3,,ok
+coin,Required,Feedback,UI,2,,ok
+combo,Required,Feedback,UI,1,,ok
+deny,Required,Feedback,UI,2,,ok
+epic,Required,Feedback,UI,1,,ok
+heart,Required,Feedback,UI,2,,ok
+levelup,Required,Feedback,UI,1,,ok
+lose,Required,Feedback,UI,1,,ok
+ready,Required,Feedback,UI,1,,ok
+restore,Required,Feedback,UI,1,,ok
+wave,Required,Feedback,UI,1,,ok
+win,Required,Feedback,UI,1,,ok
+hover,Optional,Feedback,UI,0,,optional absent
+talk,Optional,Feedback,UI,0,,optional absent
+TownTheme,Required,Music,score,1,,ok
+greenreach-score,Required,Music,paired score,2,,runtime authored
+sunscorch-score,Required,Music,paired score,2,,runtime authored
+hollow-score,Required,Music,paired score,2,,runtime authored

@@ -1,0 +1,1199 @@
+seconds,event,floor,value,note,event_id,build,content,save_schema,seed_policy,root_seed,campaign,expedition,scope,source,target,action,outcome,simulation_seconds
+0.000762,"session_start",1,0,"acceptance","b2f95c5284df43bc9abc4f3489617590:1","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.005827,"action",1,0,"fixture-heavy","b2f95c5284df43bc9abc4f3489617590:2","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","player:pip","environment","player:pip:1:fixture-heavy","",0
+0.108222,"save_commit",1,0,"xp=15","b2f95c5284df43bc9abc4f3489617590:3","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.108287,"save_commit",1,0,"dailyDay=1","b2f95c5284df43bc9abc4f3489617590:4","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.108303,"save_commit",1,0,"dailyCount=1","b2f95c5284df43bc9abc4f3489617590:5","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.108322,"save_commit",1,0,"dailyDone=0","b2f95c5284df43bc9abc4f3489617590:6","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.109931,"kill_reward",1,15,"","b2f95c5284df43bc9abc4f3489617590:7","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","player:pip","replay-fixture:actor:0002","player:pip:1:fixture-heavy","",0
+0.110912,"contact",1,70,"Physical","b2f95c5284df43bc9abc4f3489617590:8","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","player:pip","replay-fixture:actor:0002","player:pip:1:fixture-heavy","Killed",0
+0.112884,"despawn",1,0,"silent removal","b2f95c5284df43bc9abc4f3489617590:9","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","replay-fixture:actor:0002:split:-1","","",0
+0.113046,"despawn",1,0,"silent removal","b2f95c5284df43bc9abc4f3489617590:10","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","replay-fixture:actor:0002:split:1","","",0
+0.137301,"save_commit",1,0,"dailyCount=2","b2f95c5284df43bc9abc4f3489617590:11","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.137366,"save_commit",1,0,"xp=20","b2f95c5284df43bc9abc4f3489617590:12","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.137389,"kill_reward",1,5,"","b2f95c5284df43bc9abc4f3489617590:13","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","player:pip","replay-fixture:actor:0003","player:pip:1:fixture-heavy","",0
+0.137918,"despawn",1,0,"silent removal","b2f95c5284df43bc9abc4f3489617590:14","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","replay-fixture:actor:0003","","",0
+0.246151,"contact",1,1,"Physical","b2f95c5284df43bc9abc4f3489617590:15","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","player:pip","","Revived",0
+0.268993,"save_commit",1,0,"expeditionActive=0","b2f95c5284df43bc9abc4f3489617590:16","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269061,"save_commit",1,0,"settledBanked=0","b2f95c5284df43bc9abc4f3489617590:17","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269078,"save_commit",1,0,"settledLost=0","b2f95c5284df43bc9abc4f3489617590:18","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269101,"save_commit",1,0,"settledId=75121d7b93f04e418783e8caaca3e176","b2f95c5284df43bc9abc4f3489617590:19","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269117,"save_commit",1,0,"settledGloomUnlocked=0","b2f95c5284df43bc9abc4f3489617590:20","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269134,"save_commit",1,0,"runs=1","b2f95c5284df43bc9abc4f3489617590:21","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.269429,"player_defeat",1,0,"","b2f95c5284df43bc9abc4f3489617590:22","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","player:pip","","",0
+0.303617,"contact",1,1,"Physical","b2f95c5284df43bc9abc4f3489617590:23","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","player:pip","","Killed",0
+0.304069,"screen",1,0,"Hub","b2f95c5284df43bc9abc4f3489617590:24","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30416,"batch_probe",1,0,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:25","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304172,"batch_probe",1,1,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:26","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30418,"batch_probe",1,2,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:27","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304189,"batch_probe",1,3,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:28","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304196,"batch_probe",1,4,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:29","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304203,"batch_probe",1,5,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:30","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304212,"batch_probe",1,6,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:31","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304218,"batch_probe",1,7,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:32","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304228,"batch_probe",1,8,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:33","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304235,"batch_probe",1,9,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:34","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304242,"batch_probe",1,10,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:35","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304251,"batch_probe",1,11,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:36","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304258,"batch_probe",1,12,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:37","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304266,"batch_probe",1,13,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:38","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304273,"batch_probe",1,14,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:39","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304281,"batch_probe",1,15,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:40","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304288,"batch_probe",1,16,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:41","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304295,"batch_probe",1,17,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:42","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304301,"batch_probe",1,18,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:43","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304308,"batch_probe",1,19,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:44","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304316,"batch_probe",1,20,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:45","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304324,"batch_probe",1,21,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:46","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304333,"batch_probe",1,22,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:47","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30434,"batch_probe",1,23,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:48","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304347,"batch_probe",1,24,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:49","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304355,"batch_probe",1,25,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:50","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304361,"batch_probe",1,26,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:51","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304368,"batch_probe",1,27,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:52","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304375,"batch_probe",1,28,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:53","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304381,"batch_probe",1,29,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:54","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304388,"batch_probe",1,30,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:55","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304396,"batch_probe",1,31,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:56","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304405,"batch_probe",1,32,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:57","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304412,"batch_probe",1,33,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:58","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304419,"batch_probe",1,34,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:59","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304426,"batch_probe",1,35,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:60","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304433,"batch_probe",1,36,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:61","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30444,"batch_probe",1,37,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:62","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304449,"batch_probe",1,38,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:63","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304455,"batch_probe",1,39,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:64","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304463,"batch_probe",1,40,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:65","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30447,"batch_probe",1,41,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:66","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304477,"batch_probe",1,42,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:67","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304483,"batch_probe",1,43,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:68","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304491,"batch_probe",1,44,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:69","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304498,"batch_probe",1,45,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:70","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304516,"batch_probe",1,46,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:71","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304524,"batch_probe",1,47,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:72","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304531,"batch_probe",1,48,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:73","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304539,"batch_probe",1,49,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:74","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304546,"batch_probe",1,50,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:75","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304553,"batch_probe",1,51,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:76","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30456,"batch_probe",1,52,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:77","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304568,"batch_probe",1,53,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:78","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304576,"batch_probe",1,54,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:79","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304584,"batch_probe",1,55,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:80","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304591,"batch_probe",1,56,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:81","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304599,"batch_probe",1,57,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:82","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304607,"batch_probe",1,58,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:83","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304615,"batch_probe",1,59,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:84","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304622,"batch_probe",1,60,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:85","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.304628,"batch_probe",1,61,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:86","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305175,"batch_probe",1,62,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:87","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305194,"batch_probe",1,63,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:88","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305204,"batch_probe",1,64,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:89","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305216,"batch_probe",1,65,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:90","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305232,"batch_probe",1,66,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:91","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305245,"batch_probe",1,67,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:92","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30526,"batch_probe",1,68,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:93","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305276,"batch_probe",1,69,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:94","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305286,"batch_probe",1,70,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:95","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305306,"batch_probe",1,71,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:96","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305326,"batch_probe",1,72,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:97","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305336,"batch_probe",1,73,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:98","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305346,"batch_probe",1,74,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:99","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305355,"batch_probe",1,75,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:100","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305363,"batch_probe",1,76,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:101","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305371,"batch_probe",1,77,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:102","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305381,"batch_probe",1,78,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:103","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305391,"batch_probe",1,79,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:104","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305401,"batch_probe",1,80,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:105","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305409,"batch_probe",1,81,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:106","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305418,"batch_probe",1,82,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:107","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305427,"batch_probe",1,83,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:108","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305435,"batch_probe",1,84,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:109","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305444,"batch_probe",1,85,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:110","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305452,"batch_probe",1,86,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:111","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305459,"batch_probe",1,87,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:112","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30547,"batch_probe",1,88,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:113","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305478,"batch_probe",1,89,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:114","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305487,"batch_probe",1,90,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:115","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305494,"batch_probe",1,91,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:116","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305503,"batch_probe",1,92,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:117","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305511,"batch_probe",1,93,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:118","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305518,"batch_probe",1,94,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:119","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305529,"batch_probe",1,95,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:120","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305537,"batch_probe",1,96,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:121","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305546,"batch_probe",1,97,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:122","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305554,"batch_probe",1,98,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:123","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305562,"batch_probe",1,99,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:124","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305571,"batch_probe",1,100,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:125","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305579,"batch_probe",1,101,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:126","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305592,"batch_probe",1,102,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:127","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305599,"batch_probe",1,103,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:128","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305609,"batch_probe",1,104,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:129","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305616,"batch_probe",1,105,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:130","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305625,"batch_probe",1,106,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:131","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305634,"batch_probe",1,107,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:132","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305641,"batch_probe",1,108,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:133","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305649,"batch_probe",1,109,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:134","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305658,"batch_probe",1,110,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:135","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305669,"batch_probe",1,111,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:136","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305676,"batch_probe",1,112,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:137","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305685,"batch_probe",1,113,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:138","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305695,"batch_probe",1,114,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:139","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305702,"batch_probe",1,115,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:140","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305712,"batch_probe",1,116,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:141","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305719,"batch_probe",1,117,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:142","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305727,"batch_probe",1,118,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:143","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305736,"batch_probe",1,119,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:144","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305743,"batch_probe",1,120,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:145","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305768,"batch_probe",1,121,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:146","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305777,"batch_probe",1,122,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:147","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305784,"batch_probe",1,123,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:148","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.305792,"batch_probe",1,124,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:149","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.3058,"batch_probe",1,125,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:150","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306166,"batch_probe",1,126,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:151","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306183,"batch_probe",1,127,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:152","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306191,"batch_probe",1,128,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:153","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306199,"batch_probe",1,129,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:154","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30621,"batch_probe",1,130,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:155","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306223,"batch_probe",1,131,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:156","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306237,"batch_probe",1,132,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:157","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306247,"batch_probe",1,133,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:158","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306254,"batch_probe",1,134,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:159","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306261,"batch_probe",1,135,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:160","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306268,"batch_probe",1,136,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:161","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306275,"batch_probe",1,137,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:162","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306282,"batch_probe",1,138,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:163","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30629,"batch_probe",1,139,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:164","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306296,"batch_probe",1,140,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:165","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306303,"batch_probe",1,141,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:166","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306312,"batch_probe",1,142,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:167","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306318,"batch_probe",1,143,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:168","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306325,"batch_probe",1,144,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:169","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306333,"batch_probe",1,145,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:170","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306339,"batch_probe",1,146,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:171","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306346,"batch_probe",1,147,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:172","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306353,"batch_probe",1,148,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:173","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306359,"batch_probe",1,149,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:174","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306366,"batch_probe",1,150,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:175","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306373,"batch_probe",1,151,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:176","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306379,"batch_probe",1,152,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:177","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306387,"batch_probe",1,153,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:178","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306395,"batch_probe",1,154,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:179","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306402,"batch_probe",1,155,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:180","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306409,"batch_probe",1,156,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:181","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306416,"batch_probe",1,157,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:182","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306422,"batch_probe",1,158,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:183","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306429,"batch_probe",1,159,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:184","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306438,"batch_probe",1,160,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:185","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306444,"batch_probe",1,161,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:186","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306452,"batch_probe",1,162,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:187","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306459,"batch_probe",1,163,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:188","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306466,"batch_probe",1,164,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:189","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306472,"batch_probe",1,165,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:190","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30648,"batch_probe",1,166,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:191","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306487,"batch_probe",1,167,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:192","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306494,"batch_probe",1,168,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:193","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306501,"batch_probe",1,169,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:194","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306508,"batch_probe",1,170,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:195","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306515,"batch_probe",1,171,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:196","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306521,"batch_probe",1,172,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:197","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306528,"batch_probe",1,173,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:198","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306535,"batch_probe",1,174,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:199","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306542,"batch_probe",1,175,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:200","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306549,"batch_probe",1,176,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:201","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306556,"batch_probe",1,177,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:202","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306564,"batch_probe",1,178,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:203","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306573,"batch_probe",1,179,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:204","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30658,"batch_probe",1,180,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:205","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306587,"batch_probe",1,181,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:206","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306593,"batch_probe",1,182,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:207","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.3066,"batch_probe",1,183,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:208","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306607,"batch_probe",1,184,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:209","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306614,"batch_probe",1,185,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:210","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306621,"batch_probe",1,186,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:211","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306628,"batch_probe",1,187,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:212","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306634,"batch_probe",1,188,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:213","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.306641,"batch_probe",1,189,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:214","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307165,"batch_probe",1,190,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:215","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307188,"batch_probe",1,191,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:216","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307199,"batch_probe",1,192,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:217","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307207,"batch_probe",1,193,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:218","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307215,"batch_probe",1,194,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:219","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307222,"batch_probe",1,195,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:220","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30723,"batch_probe",1,196,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:221","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307237,"batch_probe",1,197,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:222","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307244,"batch_probe",1,198,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:223","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307251,"batch_probe",1,199,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:224","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307259,"batch_probe",1,200,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:225","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307267,"batch_probe",1,201,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:226","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307274,"batch_probe",1,202,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:227","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307281,"batch_probe",1,203,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:228","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307289,"batch_probe",1,204,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:229","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307298,"batch_probe",1,205,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:230","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307304,"batch_probe",1,206,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:231","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307313,"batch_probe",1,207,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:232","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30732,"batch_probe",1,208,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:233","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307326,"batch_probe",1,209,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:234","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307334,"batch_probe",1,210,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:235","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307341,"batch_probe",1,211,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:236","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307353,"batch_probe",1,212,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:237","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307364,"batch_probe",1,213,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:238","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307375,"batch_probe",1,214,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:239","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307389,"batch_probe",1,215,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:240","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307401,"batch_probe",1,216,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:241","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307407,"batch_probe",1,217,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:242","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307415,"batch_probe",1,218,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:243","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307422,"batch_probe",1,219,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:244","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307428,"batch_probe",1,220,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:245","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307436,"batch_probe",1,221,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:246","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307445,"batch_probe",1,222,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:247","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307452,"batch_probe",1,223,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:248","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307459,"batch_probe",1,224,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:249","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307466,"batch_probe",1,225,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:250","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307472,"batch_probe",1,226,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:251","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30748,"batch_probe",1,227,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:252","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307487,"batch_probe",1,228,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:253","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307495,"batch_probe",1,229,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:254","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307502,"batch_probe",1,230,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:255","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307509,"batch_probe",1,231,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:256","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307517,"batch_probe",1,232,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:257","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307524,"batch_probe",1,233,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:258","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307532,"batch_probe",1,234,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:259","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307539,"batch_probe",1,235,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:260","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30755,"batch_probe",1,236,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:261","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307578,"batch_probe",1,237,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:262","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307588,"batch_probe",1,238,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:263","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307594,"batch_probe",1,239,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:264","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307613,"batch_probe",1,240,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:265","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307621,"batch_probe",1,241,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:266","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307629,"batch_probe",1,242,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:267","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307635,"batch_probe",1,243,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:268","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307642,"batch_probe",1,244,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:269","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307649,"batch_probe",1,245,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:270","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307656,"batch_probe",1,246,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:271","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307664,"batch_probe",1,247,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:272","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307671,"batch_probe",1,248,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:273","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307678,"batch_probe",1,249,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:274","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307686,"batch_probe",1,250,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:275","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307693,"batch_probe",1,251,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:276","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307701,"batch_probe",1,252,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:277","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.307708,"batch_probe",1,253,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:278","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30819,"batch_probe",1,254,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:279","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308216,"batch_probe",1,255,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:280","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308229,"batch_probe",1,256,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:281","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308246,"batch_probe",1,257,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:282","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30826,"batch_probe",1,258,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:283","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308273,"batch_probe",1,259,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:284","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308285,"batch_probe",1,260,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:285","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308295,"batch_probe",1,261,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:286","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308306,"batch_probe",1,262,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:287","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308319,"batch_probe",1,263,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:288","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308328,"batch_probe",1,264,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:289","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308334,"batch_probe",1,265,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:290","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308342,"batch_probe",1,266,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:291","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308349,"batch_probe",1,267,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:292","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308356,"batch_probe",1,268,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:293","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308364,"batch_probe",1,269,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:294","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308372,"batch_probe",1,270,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:295","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308378,"batch_probe",1,271,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:296","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308385,"batch_probe",1,272,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:297","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308393,"batch_probe",1,273,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:298","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308399,"batch_probe",1,274,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:299","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308409,"batch_probe",1,275,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:300","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308415,"batch_probe",1,276,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:301","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308423,"batch_probe",1,277,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:302","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30843,"batch_probe",1,278,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:303","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308437,"batch_probe",1,279,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:304","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308444,"batch_probe",1,280,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:305","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308452,"batch_probe",1,281,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:306","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308458,"batch_probe",1,282,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:307","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308465,"batch_probe",1,283,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:308","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308473,"batch_probe",1,284,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:309","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308479,"batch_probe",1,285,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:310","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308487,"batch_probe",1,286,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:311","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308495,"batch_probe",1,287,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:312","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308501,"batch_probe",1,288,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:313","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308509,"batch_probe",1,289,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:314","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308516,"batch_probe",1,290,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:315","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308524,"batch_probe",1,291,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:316","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308532,"batch_probe",1,292,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:317","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308538,"batch_probe",1,293,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:318","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308545,"batch_probe",1,294,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:319","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308552,"batch_probe",1,295,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:320","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308559,"batch_probe",1,296,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:321","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308566,"batch_probe",1,297,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:322","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308573,"batch_probe",1,298,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:323","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308579,"batch_probe",1,299,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:324","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308587,"batch_probe",1,300,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:325","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308599,"batch_probe",1,301,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:326","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308611,"batch_probe",1,302,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:327","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308623,"batch_probe",1,303,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:328","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308632,"batch_probe",1,304,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:329","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30864,"batch_probe",1,305,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:330","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308647,"batch_probe",1,306,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:331","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308655,"batch_probe",1,307,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:332","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308661,"batch_probe",1,308,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:333","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308671,"batch_probe",1,309,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:334","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308678,"batch_probe",1,310,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:335","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308685,"batch_probe",1,311,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:336","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308692,"batch_probe",1,312,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:337","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308698,"batch_probe",1,313,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:338","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308705,"batch_probe",1,314,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:339","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308714,"batch_probe",1,315,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:340","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308721,"batch_probe",1,316,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:341","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.308727,"batch_probe",1,317,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:342","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309123,"batch_probe",1,318,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:343","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309145,"batch_probe",1,319,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:344","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309153,"batch_probe",1,320,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:345","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309161,"batch_probe",1,321,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:346","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309171,"batch_probe",1,322,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:347","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309177,"batch_probe",1,323,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:348","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309185,"batch_probe",1,324,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:349","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309192,"batch_probe",1,325,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:350","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309199,"batch_probe",1,326,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:351","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309207,"batch_probe",1,327,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:352","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309216,"batch_probe",1,328,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:353","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309222,"batch_probe",1,329,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:354","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309229,"batch_probe",1,330,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:355","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309237,"batch_probe",1,331,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:356","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309244,"batch_probe",1,332,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:357","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309252,"batch_probe",1,333,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:358","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309258,"batch_probe",1,334,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:359","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309265,"batch_probe",1,335,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:360","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309287,"batch_probe",1,336,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:361","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309302,"batch_probe",1,337,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:362","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309315,"batch_probe",1,338,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:363","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309323,"batch_probe",1,339,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:364","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309332,"batch_probe",1,340,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:365","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309339,"batch_probe",1,341,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:366","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309348,"batch_probe",1,342,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:367","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309356,"batch_probe",1,343,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:368","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309362,"batch_probe",1,344,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:369","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309369,"batch_probe",1,345,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:370","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309377,"batch_probe",1,346,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:371","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309384,"batch_probe",1,347,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:372","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309392,"batch_probe",1,348,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:373","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309399,"batch_probe",1,349,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:374","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309405,"batch_probe",1,350,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:375","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309412,"batch_probe",1,351,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:376","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309422,"batch_probe",1,352,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:377","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309431,"batch_probe",1,353,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:378","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309438,"batch_probe",1,354,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:379","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309446,"batch_probe",1,355,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:380","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309453,"batch_probe",1,356,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:381","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30946,"batch_probe",1,357,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:382","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309469,"batch_probe",1,358,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:383","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309476,"batch_probe",1,359,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:384","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309484,"batch_probe",1,360,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:385","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309492,"batch_probe",1,361,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:386","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.3095,"batch_probe",1,362,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:387","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309506,"batch_probe",1,363,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:388","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309514,"batch_probe",1,364,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:389","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309522,"batch_probe",1,365,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:390","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309528,"batch_probe",1,366,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:391","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309536,"batch_probe",1,367,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:392","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309546,"batch_probe",1,368,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:393","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309554,"batch_probe",1,369,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:394","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309562,"batch_probe",1,370,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:395","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309568,"batch_probe",1,371,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:396","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309575,"batch_probe",1,372,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:397","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309584,"batch_probe",1,373,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:398","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30959,"batch_probe",1,374,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:399","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309597,"batch_probe",1,375,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:400","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309606,"batch_probe",1,376,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:401","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309613,"batch_probe",1,377,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:402","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30962,"batch_probe",1,378,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:403","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309627,"batch_probe",1,379,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:404","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.309633,"batch_probe",1,380,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:405","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.30964,"batch_probe",1,381,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:406","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310009,"batch_probe",1,382,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:407","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310035,"batch_probe",1,383,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:408","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310052,"batch_probe",1,384,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:409","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310065,"batch_probe",1,385,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:410","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31008,"batch_probe",1,386,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:411","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310097,"batch_probe",1,387,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:412","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310111,"batch_probe",1,388,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:413","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310125,"batch_probe",1,389,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:414","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310141,"batch_probe",1,390,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:415","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310155,"batch_probe",1,391,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:416","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310169,"batch_probe",1,392,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:417","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310185,"batch_probe",1,393,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:418","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310204,"batch_probe",1,394,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:419","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310218,"batch_probe",1,395,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:420","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310233,"batch_probe",1,396,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:421","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310246,"batch_probe",1,397,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:422","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310261,"batch_probe",1,398,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:423","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310276,"batch_probe",1,399,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:424","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31029,"batch_probe",1,400,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:425","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310305,"batch_probe",1,401,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:426","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310319,"batch_probe",1,402,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:427","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310332,"batch_probe",1,403,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:428","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310349,"batch_probe",1,404,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:429","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310364,"batch_probe",1,405,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:430","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310379,"batch_probe",1,406,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:431","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310391,"batch_probe",1,407,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:432","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.3104,"batch_probe",1,408,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:433","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31041,"batch_probe",1,409,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:434","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31042,"batch_probe",1,410,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:435","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310429,"batch_probe",1,411,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:436","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310438,"batch_probe",1,412,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:437","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310446,"batch_probe",1,413,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:438","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310455,"batch_probe",1,414,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:439","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310465,"batch_probe",1,415,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:440","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310473,"batch_probe",1,416,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:441","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310482,"batch_probe",1,417,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:442","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31049,"batch_probe",1,418,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:443","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310497,"batch_probe",1,419,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:444","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310505,"batch_probe",1,420,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:445","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310513,"batch_probe",1,421,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:446","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310521,"batch_probe",1,422,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:447","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310531,"batch_probe",1,423,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:448","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310538,"batch_probe",1,424,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:449","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310546,"batch_probe",1,425,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:450","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310555,"batch_probe",1,426,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:451","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310563,"batch_probe",1,427,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:452","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310572,"batch_probe",1,428,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:453","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310579,"batch_probe",1,429,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:454","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310589,"batch_probe",1,430,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:455","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310599,"batch_probe",1,431,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:456","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310608,"batch_probe",1,432,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:457","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310616,"batch_probe",1,433,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:458","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310624,"batch_probe",1,434,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:459","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310635,"batch_probe",1,435,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:460","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310643,"batch_probe",1,436,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:461","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310652,"batch_probe",1,437,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:462","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310661,"batch_probe",1,438,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:463","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310669,"batch_probe",1,439,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:464","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310678,"batch_probe",1,440,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:465","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310686,"batch_probe",1,441,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:466","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310694,"batch_probe",1,442,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:467","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310701,"batch_probe",1,443,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:468","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310709,"batch_probe",1,444,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:469","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.310717,"batch_probe",1,445,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:470","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31111,"batch_probe",1,446,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:471","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311138,"batch_probe",1,447,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:472","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311154,"batch_probe",1,448,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:473","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311172,"batch_probe",1,449,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:474","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311186,"batch_probe",1,450,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:475","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.3112,"batch_probe",1,451,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:476","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311218,"batch_probe",1,452,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:477","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311233,"batch_probe",1,453,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:478","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311246,"batch_probe",1,454,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:479","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311263,"batch_probe",1,455,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:480","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311278,"batch_probe",1,456,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:481","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311294,"batch_probe",1,457,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:482","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311309,"batch_probe",1,458,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:483","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311323,"batch_probe",1,459,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:484","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311338,"batch_probe",1,460,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:485","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311352,"batch_probe",1,461,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:486","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311368,"batch_probe",1,462,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:487","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311381,"batch_probe",1,463,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:488","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311398,"batch_probe",1,464,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:489","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311411,"batch_probe",1,465,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:490","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311425,"batch_probe",1,466,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:491","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311444,"batch_probe",1,467,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:492","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311457,"batch_probe",1,468,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:493","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311466,"batch_probe",1,469,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:494","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311476,"batch_probe",1,470,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:495","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311484,"batch_probe",1,471,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:496","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311493,"batch_probe",1,472,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:497","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311502,"batch_probe",1,473,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:498","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31151,"batch_probe",1,474,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:499","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311518,"batch_probe",1,475,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:500","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311525,"batch_probe",1,476,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:501","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311534,"batch_probe",1,477,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:502","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311544,"batch_probe",1,478,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:503","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311553,"batch_probe",1,479,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:504","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311562,"batch_probe",1,480,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:505","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.311568,"batch_probe",1,481,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:506","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314801,"batch_probe",1,482,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:507","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314837,"batch_probe",1,483,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:508","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314848,"batch_probe",1,484,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:509","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314857,"batch_probe",1,485,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:510","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314869,"batch_probe",1,486,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:511","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314879,"batch_probe",1,487,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:512","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314888,"batch_probe",1,488,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:513","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314898,"batch_probe",1,489,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:514","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314905,"batch_probe",1,490,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:515","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314914,"batch_probe",1,491,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:516","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314922,"batch_probe",1,492,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:517","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314931,"batch_probe",1,493,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:518","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314941,"batch_probe",1,494,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:519","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.31495,"batch_probe",1,495,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:520","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314958,"batch_probe",1,496,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:521","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314966,"batch_probe",1,497,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:522","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314974,"batch_probe",1,498,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:523","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314982,"batch_probe",1,499,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:524","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.314992,"batch_probe",1,500,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:525","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315,"batch_probe",1,501,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:526","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315008,"batch_probe",1,502,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:527","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315019,"batch_probe",1,503,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:528","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315026,"batch_probe",1,504,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:529","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315035,"batch_probe",1,505,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:530","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315043,"batch_probe",1,506,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:531","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315051,"batch_probe",1,507,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:532","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315059,"batch_probe",1,508,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:533","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315067,"batch_probe",1,509,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:534","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315645,"batch_probe",1,510,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:535","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+0.315667,"batch_probe",1,511,"Unicode café, ""quoted""
+second line","b2f95c5284df43bc9abc4f3489617590:536","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+3.526924,"screen",1,0,"Playing","b2f95c5284df43bc9abc4f3489617590:537","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0
+5.445881,"screen",1,0,"Hub","b2f95c5284df43bc9abc4f3489617590:538","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","replay-fixture","environment","environment","","",0.302126
+5.559599,"scope_start",1,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:539","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+6.0004,"screen",1,0,"Story","b2f95c5284df43bc9abc4f3489617590:540","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+6.562044,"screen",1,0,"Paused","b2f95c5284df43bc9abc4f3489617590:541","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+8.438201,"screen",1,0,"Story","b2f95c5284df43bc9abc4f3489617590:542","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+8.740369,"screen",1,0,"Hub","b2f95c5284df43bc9abc4f3489617590:543","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+8.852719,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:544","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+12.586717,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:545","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+14.259246,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:546","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+17.560321,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:547","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+19.266469,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:548","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+20.915696,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:549","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+23.528066,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:550","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+25.227763,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:551","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+26.887446,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:552","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+29.537734,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:553","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+31.244971,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:554","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+32.896853,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:555","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+35.602923,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:556","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+37.323047,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:557","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+38.978072,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:558","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+41.705089,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:559","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+43.445476,"scope_start",4,0,"tower:04:gloom:0","b2f95c5284df43bc9abc4f3489617590:560","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","tower:04:gloom:0","environment","environment","","",0.302126
+45.105338,"scope_start",4,0,"wilds","b2f95c5284df43bc9abc4f3489617590:561","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","wilds","environment","environment","","",0.302126
+47.955215,"scope_start",4,0,"town","b2f95c5284df43bc9abc4f3489617590:562","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+48.721049,"stress_probe",4,2095,"","b2f95c5284df43bc9abc4f3489617590:563","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+49.235995,"stress_probe",4,2117,"","b2f95c5284df43bc9abc4f3489617590:564","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+49.747882,"stress_probe",4,2150,"","b2f95c5284df43bc9abc4f3489617590:565","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+50.26958,"stress_probe",4,2185,"","b2f95c5284df43bc9abc4f3489617590:566","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+50.786559,"stress_probe",4,2218,"","b2f95c5284df43bc9abc4f3489617590:567","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+51.305114,"stress_probe",4,2251,"","b2f95c5284df43bc9abc4f3489617590:568","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+51.826121,"stress_probe",4,2282,"","b2f95c5284df43bc9abc4f3489617590:569","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+52.337771,"stress_probe",4,2320,"","b2f95c5284df43bc9abc4f3489617590:570","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+52.850802,"stress_probe",4,2358,"","b2f95c5284df43bc9abc4f3489617590:571","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+53.373885,"stress_probe",4,2398,"","b2f95c5284df43bc9abc4f3489617590:572","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+53.880443,"stress_probe",4,2435,"","b2f95c5284df43bc9abc4f3489617590:573","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+54.389701,"stress_probe",4,2472,"","b2f95c5284df43bc9abc4f3489617590:574","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+54.894164,"stress_probe",4,2508,"","b2f95c5284df43bc9abc4f3489617590:575","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+55.396785,"stress_probe",4,2546,"","b2f95c5284df43bc9abc4f3489617590:576","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+55.902617,"stress_probe",4,2581,"","b2f95c5284df43bc9abc4f3489617590:577","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+56.41085,"stress_probe",4,2619,"","b2f95c5284df43bc9abc4f3489617590:578","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+56.912391,"stress_probe",4,2656,"","b2f95c5284df43bc9abc4f3489617590:579","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+57.42456,"stress_probe",4,2693,"","b2f95c5284df43bc9abc4f3489617590:580","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+57.935912,"stress_probe",4,2730,"","b2f95c5284df43bc9abc4f3489617590:581","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+58.439002,"stress_probe",4,2768,"","b2f95c5284df43bc9abc4f3489617590:582","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+58.94728,"stress_probe",4,2806,"","b2f95c5284df43bc9abc4f3489617590:583","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+59.459464,"stress_probe",4,2844,"","b2f95c5284df43bc9abc4f3489617590:584","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+59.973563,"stress_probe",4,2881,"","b2f95c5284df43bc9abc4f3489617590:585","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+60.478744,"stress_probe",4,2920,"","b2f95c5284df43bc9abc4f3489617590:586","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+60.983962,"stress_probe",4,2958,"","b2f95c5284df43bc9abc4f3489617590:587","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+61.494437,"stress_probe",4,2992,"","b2f95c5284df43bc9abc4f3489617590:588","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+62.000579,"stress_probe",4,3028,"","b2f95c5284df43bc9abc4f3489617590:589","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+62.510383,"stress_probe",4,3068,"","b2f95c5284df43bc9abc4f3489617590:590","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+63.015006,"stress_probe",4,3105,"","b2f95c5284df43bc9abc4f3489617590:591","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+63.516723,"stress_probe",4,3144,"","b2f95c5284df43bc9abc4f3489617590:592","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+64.027244,"stress_probe",4,3183,"","b2f95c5284df43bc9abc4f3489617590:593","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+64.535865,"stress_probe",4,3221,"","b2f95c5284df43bc9abc4f3489617590:594","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+65.047103,"stress_probe",4,3258,"","b2f95c5284df43bc9abc4f3489617590:595","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+65.548438,"stress_probe",4,3296,"","b2f95c5284df43bc9abc4f3489617590:596","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+66.059859,"stress_probe",4,3334,"","b2f95c5284df43bc9abc4f3489617590:597","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+66.568999,"stress_probe",4,3373,"","b2f95c5284df43bc9abc4f3489617590:598","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+67.075416,"stress_probe",4,3413,"","b2f95c5284df43bc9abc4f3489617590:599","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+67.588553,"stress_probe",4,3452,"","b2f95c5284df43bc9abc4f3489617590:600","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+68.09938,"stress_probe",4,3491,"","b2f95c5284df43bc9abc4f3489617590:601","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+68.607932,"stress_probe",4,3530,"","b2f95c5284df43bc9abc4f3489617590:602","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+69.116446,"stress_probe",4,3568,"","b2f95c5284df43bc9abc4f3489617590:603","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+69.620673,"stress_probe",4,3607,"","b2f95c5284df43bc9abc4f3489617590:604","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+70.132232,"stress_probe",4,3647,"","b2f95c5284df43bc9abc4f3489617590:605","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+70.639449,"stress_probe",4,3682,"","b2f95c5284df43bc9abc4f3489617590:606","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+71.143142,"stress_probe",4,3718,"","b2f95c5284df43bc9abc4f3489617590:607","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+71.653953,"stress_probe",4,3754,"","b2f95c5284df43bc9abc4f3489617590:608","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+72.164374,"stress_probe",4,3791,"","b2f95c5284df43bc9abc4f3489617590:609","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+72.673697,"stress_probe",4,3826,"","b2f95c5284df43bc9abc4f3489617590:610","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+73.18238,"stress_probe",4,3865,"","b2f95c5284df43bc9abc4f3489617590:611","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+73.695685,"stress_probe",4,3905,"","b2f95c5284df43bc9abc4f3489617590:612","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+74.200324,"stress_probe",4,3944,"","b2f95c5284df43bc9abc4f3489617590:613","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+74.710181,"stress_probe",4,3983,"","b2f95c5284df43bc9abc4f3489617590:614","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+75.220603,"stress_probe",4,4022,"","b2f95c5284df43bc9abc4f3489617590:615","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+75.733062,"stress_probe",4,4062,"","b2f95c5284df43bc9abc4f3489617590:616","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+76.237128,"stress_probe",4,4100,"","b2f95c5284df43bc9abc4f3489617590:617","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+76.750297,"stress_probe",4,4141,"","b2f95c5284df43bc9abc4f3489617590:618","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+77.261741,"stress_probe",4,4180,"","b2f95c5284df43bc9abc4f3489617590:619","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+77.772826,"stress_probe",4,4219,"","b2f95c5284df43bc9abc4f3489617590:620","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+78.280646,"stress_probe",4,4258,"","b2f95c5284df43bc9abc4f3489617590:621","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+78.794066,"stress_probe",4,4297,"","b2f95c5284df43bc9abc4f3489617590:622","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+79.303939,"stress_probe",4,4337,"","b2f95c5284df43bc9abc4f3489617590:623","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+79.809127,"stress_probe",4,4375,"","b2f95c5284df43bc9abc4f3489617590:624","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+80.319968,"stress_probe",4,4415,"","b2f95c5284df43bc9abc4f3489617590:625","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+80.831931,"stress_probe",4,4455,"","b2f95c5284df43bc9abc4f3489617590:626","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+81.344031,"stress_probe",4,4495,"","b2f95c5284df43bc9abc4f3489617590:627","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+81.856948,"stress_probe",4,4532,"","b2f95c5284df43bc9abc4f3489617590:628","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+82.361442,"stress_probe",4,4572,"","b2f95c5284df43bc9abc4f3489617590:629","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+82.865066,"stress_probe",4,4609,"","b2f95c5284df43bc9abc4f3489617590:630","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+83.375014,"stress_probe",4,4648,"","b2f95c5284df43bc9abc4f3489617590:631","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+83.876235,"stress_probe",4,4687,"","b2f95c5284df43bc9abc4f3489617590:632","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+84.384421,"stress_probe",4,4725,"","b2f95c5284df43bc9abc4f3489617590:633","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+84.895247,"stress_probe",4,4760,"","b2f95c5284df43bc9abc4f3489617590:634","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+85.406425,"stress_probe",4,4796,"","b2f95c5284df43bc9abc4f3489617590:635","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+85.910064,"stress_probe",4,4835,"","b2f95c5284df43bc9abc4f3489617590:636","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+86.411292,"stress_probe",4,4872,"","b2f95c5284df43bc9abc4f3489617590:637","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+86.914504,"stress_probe",4,4910,"","b2f95c5284df43bc9abc4f3489617590:638","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+87.422851,"stress_probe",4,4950,"","b2f95c5284df43bc9abc4f3489617590:639","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+87.934226,"stress_probe",4,4990,"","b2f95c5284df43bc9abc4f3489617590:640","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+88.436782,"stress_probe",4,5029,"","b2f95c5284df43bc9abc4f3489617590:641","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+88.943587,"stress_probe",4,5067,"","b2f95c5284df43bc9abc4f3489617590:642","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+89.460715,"stress_probe",4,5105,"","b2f95c5284df43bc9abc4f3489617590:643","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+89.965972,"stress_probe",4,5145,"","b2f95c5284df43bc9abc4f3489617590:644","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+90.477019,"stress_probe",4,5184,"","b2f95c5284df43bc9abc4f3489617590:645","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+90.978339,"stress_probe",4,5223,"","b2f95c5284df43bc9abc4f3489617590:646","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+91.482375,"stress_probe",4,5260,"","b2f95c5284df43bc9abc4f3489617590:647","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+91.988677,"stress_probe",4,5296,"","b2f95c5284df43bc9abc4f3489617590:648","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+92.493285,"stress_probe",4,5334,"","b2f95c5284df43bc9abc4f3489617590:649","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+93.007941,"stress_probe",4,5372,"","b2f95c5284df43bc9abc4f3489617590:650","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+93.514113,"stress_probe",4,5408,"","b2f95c5284df43bc9abc4f3489617590:651","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+94.020484,"stress_probe",4,5447,"","b2f95c5284df43bc9abc4f3489617590:652","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+94.52951,"stress_probe",4,5486,"","b2f95c5284df43bc9abc4f3489617590:653","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+95.031592,"stress_probe",4,5525,"","b2f95c5284df43bc9abc4f3489617590:654","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+95.542785,"stress_probe",4,5560,"","b2f95c5284df43bc9abc4f3489617590:655","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+96.047301,"stress_probe",4,5597,"","b2f95c5284df43bc9abc4f3489617590:656","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+96.559936,"stress_probe",4,5637,"","b2f95c5284df43bc9abc4f3489617590:657","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+97.062118,"stress_probe",4,5676,"","b2f95c5284df43bc9abc4f3489617590:658","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+97.574317,"stress_probe",4,5714,"","b2f95c5284df43bc9abc4f3489617590:659","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+98.08406,"stress_probe",4,5752,"","b2f95c5284df43bc9abc4f3489617590:660","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+98.592475,"stress_probe",4,5792,"","b2f95c5284df43bc9abc4f3489617590:661","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+99.10472,"stress_probe",4,5832,"","b2f95c5284df43bc9abc4f3489617590:662","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+99.608657,"stress_probe",4,5870,"","b2f95c5284df43bc9abc4f3489617590:663","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+100.121245,"stress_probe",4,5908,"","b2f95c5284df43bc9abc4f3489617590:664","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+100.635276,"stress_probe",4,5947,"","b2f95c5284df43bc9abc4f3489617590:665","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+101.147605,"stress_probe",4,5984,"","b2f95c5284df43bc9abc4f3489617590:666","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+101.654395,"stress_probe",4,6018,"","b2f95c5284df43bc9abc4f3489617590:667","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+102.157599,"stress_probe",4,6056,"","b2f95c5284df43bc9abc4f3489617590:668","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+102.662093,"stress_probe",4,6093,"","b2f95c5284df43bc9abc4f3489617590:669","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+103.172248,"stress_probe",4,6132,"","b2f95c5284df43bc9abc4f3489617590:670","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+103.677199,"stress_probe",4,6170,"","b2f95c5284df43bc9abc4f3489617590:671","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+104.18402,"stress_probe",4,6207,"","b2f95c5284df43bc9abc4f3489617590:672","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+104.696074,"stress_probe",4,6246,"","b2f95c5284df43bc9abc4f3489617590:673","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+105.197448,"stress_probe",4,6284,"","b2f95c5284df43bc9abc4f3489617590:674","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+105.698722,"stress_probe",4,6322,"","b2f95c5284df43bc9abc4f3489617590:675","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+106.200484,"stress_probe",4,6359,"","b2f95c5284df43bc9abc4f3489617590:676","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+106.709556,"stress_probe",4,6398,"","b2f95c5284df43bc9abc4f3489617590:677","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+107.219161,"stress_probe",4,6437,"","b2f95c5284df43bc9abc4f3489617590:678","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+107.721969,"stress_probe",4,6474,"","b2f95c5284df43bc9abc4f3489617590:679","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+108.231696,"stress_probe",4,6513,"","b2f95c5284df43bc9abc4f3489617590:680","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+108.736655,"stress_probe",4,6551,"","b2f95c5284df43bc9abc4f3489617590:681","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+109.237784,"stress_probe",4,6590,"","b2f95c5284df43bc9abc4f3489617590:682","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+109.843787,"summary_kills",4,2,"","b2f95c5284df43bc9abc4f3489617590:683","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+109.843841,"summary_hits_taken",4,2,"","b2f95c5284df43bc9abc4f3489617590:684","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+109.843848,"summary_falls",4,1,"","b2f95c5284df43bc9abc4f3489617590:685","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126
+109.843871,"session_end",4,0,"dropped=0","b2f95c5284df43bc9abc4f3489617590:686","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"a89037ae5c794709b2f8a83d03677d67","75121d7b93f04e418783e8caaca3e176","town","environment","environment","","",0.302126

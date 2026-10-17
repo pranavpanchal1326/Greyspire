@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "checked_on": "2026-10-16",
+  "runtime_dll_sha256": "5E678AE866EE118321C057F4A6A50D32C42F43D5B5B9E787467027E944323651",
+  "preset": "Playtests/phase-nine-route-20261016-091002/journey",
+  "isolated_copy": "Logs/test-saves/player-smoke-20261016-095515",
+  "runner_log": "Logs/phase-nine-player-smoke-runner.log",
+  "player_log": "Logs/phase-nine-player.log",
+  "scope": "Delivered Windows player startup with the synthetic route preset and clean exit. Exact player preferences restored. Hidden-window backbuffer capture was unavailable; visual evidence comes from the reviewed editor captures. This is not a human chapter playtest."
+}

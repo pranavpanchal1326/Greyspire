@@ -1,0 +1,61 @@
+{
+  "phase": 8,
+  "gate": "G7",
+  "checked_at": "2026-10-16T09:02:58.368158+05:30",
+  "result": "PASS",
+  "technical_result": "PASS",
+  "checks": {
+    "save": 103,
+    "contact": 65,
+    "movement": 29,
+    "terrain": 58,
+    "growth": 194,
+    "objective": 120,
+    "feedback": 178,
+    "production": 201,
+    "pilot": 102
+  },
+  "total_checks": 1050,
+  "runtime_input_files": 440,
+  "runtime_dll_sha256": "5709509DEAA0D45FDCB3157B245828ADC6C232358CDE581B033FC87219AB048B",
+  "runtime_dll_bytes": 514560,
+  "build": {
+    "result": "Succeeded",
+    "final_errors": 0,
+    "final_warnings": 0,
+    "cold_compile": {
+      "errors": 0,
+      "warnings": 1,
+      "warning": "Existing Hidden/ToonArena/Post gradient-in-loop warning at Assets/Resources/Post.shader(32) on d3d11",
+      "result": "Succeeded",
+      "runtime_dll_sha256": "5709509DEAA0D45FDCB3157B245828ADC6C232358CDE581B033FC87219AB048B"
+    }
+  },
+  "stress": {
+    "duration_seconds": "618.7878",
+    "frames": "36991",
+    "median_frame_ms": "16.6700",
+    "p95_frame_ms": "17.1635",
+    "p99_frame_ms": "18.0468",
+    "peak_gc_allocated_frame_bytes": "558271",
+    "peak_native_meshes": "386",
+    "owned_assets": "72",
+    "dash_slots": "14",
+    "world_voice_capacity": "12"
+  },
+  "pilot_evidence_rows": 18,
+  "errors": [],
+  "human_playtest": {
+    "result": "PASS",
+    "reviewed_on": "2026-10-16",
+    "reviewer": "User, reported in this chat",
+    "runtime_dll_sha256": "5709509DEAA0D45FDCB3157B245828ADC6C232358CDE581B033FC87219AB048B",
+    "required_by": "GREYSPIRE_UPGRADE_MASTERPLAN.md section 40",
+    "question": "After playing, were both routes clear, all three mastery paths usable and distinct, and the courier choice and town response understandable?",
+    "response": "I played it: ready for phase 9",
+    "notes": "The user selected this response to the build-specific playtest question and instructions for Play-A.cmd and Play-B.cmd. This records their reported acceptance; it does not claim independently observed playtime, hardware certification or a wider campaign review."
+  },
+  "phase_nine_allowed": true,
+  "phase_nine_started": false,
+  "scope": "Local technical fixtures, baseline traversal, controller simulation, reduced-effects captures, replay/stress and Windows build. Human comprehension and build viability require a real playtest; no hardware certification."
+}

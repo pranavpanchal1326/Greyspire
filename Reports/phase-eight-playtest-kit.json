@@ -1,0 +1,10 @@
+{
+  "directory": "D:\\game\\Playtests\\phase-eight-20261015-170924",
+  "preset": "synthetic level-4 entry before floor 3",
+  "variants": [
+    "A: send delivery home",
+    "B: keep field kit"
+  ],
+  "human_review": "PENDING",
+  "launch_condition": "Current runtime DLL matches a phase-eight technical PASS report"
+}

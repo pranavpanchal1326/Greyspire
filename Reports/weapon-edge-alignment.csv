@@ -1,0 +1,10 @@
+hero,blow,clip,edge_dot,consistency,twist_degrees,thrust
+pip,1,Sword_Regular_A,1,0.81,52,False
+pip,2,Sword_Regular_B,1,0.89,90,False
+pip,3,Sword_Regular_C,1,0.84,90,False
+bram,1,Sword_Attack,1,0.74,85,False
+bram,2,TreeChopping_Loop,1,0.95,91,False
+bram,3,Sword_Regular_C,1,0.83,90,False
+nix,1,Melee_Hook,1,0.57,-43,False
+nix,2,Sword_Regular_B,1,0.84,87,False
+nix,3,1H_Melee_Attack_Stab,-0.02,0.88,0,True

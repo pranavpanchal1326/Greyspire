@@ -1,0 +1,9 @@
+﻿{
+    "technical_result":  "PASS",
+    "verified_on":  "2026-10-17",
+    "runtime_dll_sha256":  "9AC42E416B6B964E28523473CA6F55CED79FDA39CB6ACD5749F8EEE1BCE6CACF",
+    "build_megabytes":  383,
+    "build_warnings":  0,
+    "suites":  "learning 27, anim 43, access 73, envaudio 36, branch 34, guardian 63, roles 53, weapon 113, save 103, contact 65, feel 29, terrain 58 (rerun; see report), growth 194, objective 120, feedback 179, story, nav, pilot 102, route 33, production 201 with soak",
+    "human_playtest":  "PENDING (Q01)"
+}

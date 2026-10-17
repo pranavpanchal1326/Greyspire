@@ -1,0 +1,15 @@
+kind,identity,value,result
+route,upper-0.35,73.3021,PASS
+route,upper-0.6,73.3021,PASS
+route,upper-1.25,73.3021,PASS
+walk,upper,10.5578,PASS
+route,lower-0.35,144.0005,PASS
+route,lower-0.6,144.0005,PASS
+route,lower-1.25,144.0005,PASS
+shortcut,closed,63.3236,PASS
+shortcut,open,16,PASS
+walk,lower,21.1639,PASS
+lifecycle,chapter-0,33,PASS
+lifecycle,chapter-1,33,PASS
+lifecycle,chapter-2,33,PASS
+lifecycle,chapter-3,33,PASS

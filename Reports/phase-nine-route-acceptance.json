@@ -1,0 +1,48 @@
+{
+  "phase": 9,
+  "gate": "G8",
+  "package": "W01/W02 floor-2 route",
+  "checked_at": "2026-10-16T09:54:54.267695+05:30",
+  "result": "PACKAGE_TECHNICAL_PASS_CHAPTER_OPEN",
+  "technical_result": "PASS",
+  "checks": {
+    "save": 103,
+    "contact": 65,
+    "movement": 29,
+    "terrain": 58,
+    "growth": 194,
+    "objective": 120,
+    "feedback": 178,
+    "production": 201,
+    "pilot": 102,
+    "chapter_route": 33
+  },
+  "total_checks": 1083,
+  "runtime_input_files": 446,
+  "runtime_dll_sha256": "5E678AE866EE118321C057F4A6A50D32C42F43D5B5B9E787467027E944323651",
+  "runtime_dll_bytes": 521216,
+  "build": {
+    "result": "Succeeded",
+    "size_mb": 382,
+    "errors": 0,
+    "warnings": 0
+  },
+  "stress": {
+    "duration_seconds": "617.8460",
+    "frames": "36950",
+    "median_frame_ms": "16.6662",
+    "p95_frame_ms": "17.1395",
+    "p99_frame_ms": "18.0757",
+    "peak_gc_allocated_frame_bytes": "558415",
+    "peak_native_meshes": "386",
+    "owned_assets": "72",
+    "dash_slots": "14",
+    "world_voice_capacity": "12"
+  },
+  "route_evidence_rows": 14,
+  "errors": [],
+  "phase_nine_started": true,
+  "phase_nine_complete": false,
+  "phase_ten_allowed": false,
+  "remaining_acceptance": "Full P1 chapter including motion/assets, combat/Guardian, companions, presentation, information/rebinding/onboarding and fresh-player Q01 review. Phase-eight human acceptance is historical and does not certify this chapter candidate."
+}

@@ -1,0 +1,89 @@
+context,control,enabled,slider,x,y,width,height
+title,"CONTINUE",True,False,76,364,340,64
+title,"NEW GAME",True,False,76,440,340,48
+title,"SETTINGS",True,False,76,498,340,48
+title,"QUIT",True,False,76,556,340,48
+title,"CREDITS",True,False,1465.714,634,160,40
+new journey confirmation,"ERASE AND BEGIN",True,False,90,436,220,54
+new journey confirmation,"KEEP MY JOURNEY",True,False,330,436,230,54
+sound settings,"SOUND / DISPLAY",True,False,84,202,156,36
+sound settings,"CAMERA",True,False,246,202,156,36
+sound settings,"EFFECTS",True,False,408,202,156,36
+sound settings,"Master sound",True,True,304,262,208,18
+sound settings,"Music",True,True,304,311,208,18
+sound settings,"Quieter peaks",True,False,304,354,244,34
+sound settings,"<",True,False,304,404,40,34
+sound settings,">",False,False,508,404,40,34
+sound settings,"Windowed",True,False,304,453,244,34
+sound settings,"DONE",True,False,216,655,220,46
+camera settings,"SOUND / DISPLAY",True,False,84,202,156,36
+camera settings,"CAMERA",True,False,246,202,156,36
+camera settings,"EFFECTS",True,False,408,202,156,36
+camera settings,"Look speed",True,True,304,262,208,18
+camera settings,"Field of view",True,True,304,311,208,18
+camera settings,"Camera motion",True,True,304,409,208,18
+camera settings,"Auto camera",True,True,304,458,208,18
+camera settings,"Normal",True,False,304,505,244,34
+camera settings,"DONE",True,False,216,655,220,46
+effect settings,"SOUND / DISPLAY",True,False,84,202,156,36
+effect settings,"CAMERA",True,False,246,202,156,36
+effect settings,"EFFECTS",True,False,408,202,156,36
+effect settings,"Flashes",True,True,304,262,208,18
+effect settings,"Impact frames",True,True,304,311,208,18
+effect settings,"Motion lines",True,True,304,360,208,18
+effect settings,"Colour separation",True,True,304,409,208,18
+effect settings,"Vignette pulses",True,True,304,458,208,18
+effect settings,"REDUCED EFFECTS",True,False,94,521,224,40
+effect settings,"STANDARD",True,False,332,521,224,40
+effect settings,"DONE",True,False,216,655,220,46
+credits,"BACK",True,False,256,559,200,46
+forge,"BUY  25",True,False,1012.857,214,170,52
+forge,"BUY  25",True,False,1012.857,310,170,52
+forge,"BUY  25",True,False,1012.857,406,170,52
+forge,"BUY  25",True,False,1012.857,502,170,52
+forge,"BACK",True,False,692.8571,632,260,56
+echo journal,"BACK",True,False,702.8571,647,240,50
+tower gate and recovery,"ENTER FLOOR 3",True,False,592.8571,397,460,66
+tower gate and recovery,"NOT YET",True,False,702.8571,604,240,52
+guild commissions,"COMMISSIONS",True,False,572.8571,110,240,44
+guild commissions,"HEROES",True,False,832.8571,110,240,44
+guild commissions,"ACCEPT",True,False,1096.857,208,176,42
+guild commissions,"ACCEPT",True,False,1096.857,308,176,42
+guild commissions,"ACCEPT",True,False,1096.857,408,176,42
+guild commissions,"ACCEPT",True,False,1096.857,508,176,42
+guild commissions,"LEAVE",True,False,712.8571,652,220,48
+hero roster,"COMMISSIONS",True,False,572.8571,110,240,44
+hero roster,"HEROES",True,False,832.8571,110,240,44
+hero roster,"<",True,False,38,380,36,40
+hero roster,">",True,False,262,380,36,40
+hero roster,"LEAVE",True,False,712.8571,652,220,48
+noble commissions,"ACCEPT",True,False,1096.857,178,176,42
+noble commissions,"ACCEPT",True,False,1096.857,278,176,42
+noble commissions,"LEAVE",True,False,712.8571,652,220,48
+rest,"SLEEP UNTIL MORNING  (06:00)",True,False,592.8571,259,460,62
+rest,"REST UNTIL EVENING  (18:00)",True,False,592.8571,335,460,62
+rest,"NOT NOW",True,False,702.8571,584,240,52
+status,"PAUSED",True,False,500.8571,43,204,46
+status,"STATUS",True,False,720.8571,43,204,46
+status,"SETTINGS",True,False,940.8572,43,204,46
+status,"+",True,False,1220.857,179,50,40
+status,"+",True,False,1220.857,241,50,40
+status,"+",True,False,1220.857,303,50,40
+status,"+",True,False,1220.857,365,50,40
+status,"FREE RESPEC (refund all points)",True,False,366.8571,600,280,30
+status,"CONVERT 1 POINT -> 25 SPARKS",True,False,658.8571,600,290,30
+status,"RESUME",True,False,702.8571,650,240,48
+Guardian boon,"Big Heart",True,False,402.8571,197,260,350
+Guardian boon,"Shockwave Finisher",True,False,692.8571,197,260,350
+Guardian boon,"Living Paint",True,False,982.8572,197,260,350
+Guardian boon,"OFFER AGAIN  (10 Sparks)",True,False,642.8571,617,360,50
+rhea rescue choice,"GO HOME",True,False,392.8571,320,400,120
+rhea rescue choice,"WHAT DID YOU SEE?",True,False,852.8572,320,400,120
+dorn rescue choice,"GO HOME",True,False,392.8571,320,400,120
+dorn rescue choice,"WHAT DID YOU SEE?",True,False,852.8572,320,400,120
+ending choice,"SHATTER THE CROWN",True,False,392.8571,320,400,120
+ending choice,"PAINT HIM BACK",True,False,852.8572,320,400,120
+results,"BACK TO BRUSHWICK",True,False,492.8571,611,320,58
+results,"CLIMB AGAIN: FLOOR 6",True,False,832.8571,611,320,58
+Wilds map,"CLOSE MAP",True,False,722.8571,682,200,32
+save attention recovery,"CLOSE GAME",True,False,692.8571,514,260,52

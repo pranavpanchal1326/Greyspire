@@ -1,0 +1,2 @@
+seconds,event,floor,value,note,event_id,build,content,save_schema,seed_policy,root_seed,campaign,expedition,scope,source,target,action,outcome,simulation_seconds
+0.000427,"session_start",4,0,"limit","b6bb766f14a24f92bf02790134af60cc:1","greyspire-g6-v1","legacy30-explicit-v1",2,1,734912,"17666e77109d4bc9890c0748def67ff4","8195fda29c2c4c0584b2d8691f2f8e54","town","environment","environment","","",0.319843

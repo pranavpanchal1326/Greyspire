@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uilds/
+[Uu]serSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+.vs/
+.vscode/
+
+# Downloads fetched by Tools/fetch_packs.py and Tools/fetch_env.py
+Downloads/
+
+# Bestiary monsters: licensed for use in the game, not for redistribution.
+# Tools/install_monsters.py puts them here; only their import settings (.meta) are committed.
+Assets/Resources/Humans/Monsters/*
+!Assets/Resources/Humans/Monsters/*.meta
+
+# Blender autosaves, Python caches
+*.blend1
+__pycache__/
+*.pyc

@@ -1,0 +1,2 @@
+duration_seconds,frames,median_frame_ms,p95_frame_ms,p99_frame_ms,peak_gc_allocated_frame_bytes,peak_native_meshes,owned_assets,dash_slots,world_voice_capacity
+617.8460,36950,16.6662,17.1395,18.0757,558415,386,72,14,12

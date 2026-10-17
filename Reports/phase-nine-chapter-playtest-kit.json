@@ -1,0 +1,7 @@
+﻿{
+    "directory":  "D:\\game\\Playtests\\phase-nine-chapter-20261017-214454",
+    "preset":  "fresh journey per tester (no synthetic preset)",
+    "scope":  "Q01 first-chapter fresh-player playtest: Brushwick to the floor-5 Guardian",
+    "launch_condition":  "Current runtime DLL matches Reports\\phase-nine-chapter-acceptance.json (technical PASS)",
+    "human_review":  "PENDING"
+}

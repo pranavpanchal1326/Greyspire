@@ -1,0 +1,7 @@
+{
+  "errors": 0,
+  "warnings": 1,
+  "warning": "Existing Hidden/ToonArena/Post gradient-in-loop warning at Assets/Resources/Post.shader(32) on d3d11",
+  "result": "Succeeded",
+  "runtime_dll_sha256": "5709509DEAA0D45FDCB3157B245828ADC6C232358CDE581B033FC87219AB048B"
+}

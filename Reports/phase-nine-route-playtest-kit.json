@@ -1,0 +1,6 @@
+{
+  "directory": "D:\\game\\Playtests\\phase-nine-route-20261016-091002",
+  "preset": "synthetic level-2 entry before floor 2",
+  "scope": "W01/W02 route preview; full phase-nine acceptance remains open",
+  "launch_condition": "Current runtime DLL matches a route-package technical PASS report"
+}

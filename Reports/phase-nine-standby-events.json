@@ -1,0 +1,42 @@
+[
+  {
+    "TimeCreated": "2026-10-16T09:32:32.873405+05:30",
+    "Id": 566,
+    "Message": "The system session has transitioned from 4 to 5.\r\n\r\nReason PolicyChange \r\n\r\nBootId: 104"
+  },
+  {
+    "TimeCreated": "2026-10-16T09:32:32.8733165+05:30",
+    "Id": 507,
+    "Message": "The system is exiting Modern Standby \r\n\r\nReason: Lid."
+  },
+  {
+    "TimeCreated": "2026-10-16T09:32:32.0807957+05:30",
+    "Id": 172,
+    "Message": "Connectivity state in standby: Connected, Reason: None"
+  },
+  {
+    "TimeCreated": "2026-10-16T09:27:08.9224681+05:30",
+    "Id": 172,
+    "Message": "Connectivity state in standby: Disconnected, Reason: Policy Setting"
+  },
+  {
+    "TimeCreated": "2026-10-16T09:27:02.5425332+05:30",
+    "Id": 566,
+    "Message": "The system session has transitioned from 3 to 4.\r\n\r\nReason 55 \r\n\r\nBootId: 104"
+  },
+  {
+    "TimeCreated": "2026-10-16T09:26:57.4664827+05:30",
+    "Id": 506,
+    "Message": "The system is entering Modern Standby \r\n\r\nReason: Austerity Battery Drain Budget Exceeded."
+  },
+  {
+    "TimeCreated": "2026-10-16T09:26:57.4618839+05:30",
+    "Id": 566,
+    "Message": "The system session has transitioned from 2 to 3.\r\n\r\nReason 55 \r\n\r\nBootId: 104"
+  },
+  {
+    "TimeCreated": "2026-10-16T09:26:57.4617633+05:30",
+    "Id": 507,
+    "Message": "The system is exiting Modern Standby \r\n\r\nReason: Austerity Battery Drain Budget Exceeded."
+  }
+]

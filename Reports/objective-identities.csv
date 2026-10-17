@@ -1,0 +1,40 @@
+kind,id,region,target,description
+commission,wolves-road,greenreach,,Bandits
+commission,slime-season,,,Monsters
+commission,first-steps,,,Climb
+commission,lay-land,,,Explore
+commission,knives-pines,whispering-woods,,Bandits
+commission,lake-monsters,mirror-lake,,Monsters
+commission,garrick,goldleaf,chief:garrick,Chief
+commission,tenth-floor,,,Climb
+commission,sand-steel,sunscorch,,Bandits
+commission,fen-monsters,sunken-fen,,Monsters
+commission,every-road,,,Explore
+commission,hobb,frostfall,chief:hobb,Chief
+commission,graves-walk,hollow-graves,,Monsters
+commission,twentieth-floor,,,Climb
+commission,ember-hunt,emberscar,,Monsters
+commission,vane-signet,whispering-woods,item:vane-signet,Recover
+commission,sand-banner,sunscorch,chief:sefa,Chief
+commission,ashgrave-wager,,,Climb
+commission,double-nothing,,,Climb
+region,greenreach,,,discovery and two treasure slots
+region,whispering-woods,,,discovery and two treasure slots
+region,mirror-lake,,,discovery and two treasure slots
+region,sunscorch,,,discovery and two treasure slots
+region,hollow-graves,,,discovery and two treasure slots
+region,shardfield,,,discovery and two treasure slots
+region,goldleaf,,,discovery and two treasure slots
+region,sunken-fen,,,discovery and two treasure slots
+region,frostfall,,,discovery and two treasure slots
+region,emberscar,,,discovery and two treasure slots
+rescue,rhea,,,floor 4
+rescue,dorn,,,floor 9
+rescue,kael,,,floor 14
+rescue,imel,,,floor 19
+rescue,oswin,,,floor 24
+hero,pip,,,Pip of Brushwick
+hero,bram,,,Bram the Barbarian
+hero,nix,,,Nix the Rogue
+hero,sol,,,Sol the Mage
+hero,cedric,,,Cedric the Warden

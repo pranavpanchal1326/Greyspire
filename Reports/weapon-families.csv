@@ -1,0 +1,10 @@
+hero,family,step,time,contact,damage,reach,arc_degrees,lunge,push,stagger,heavy,thrust,plan_duration,plan_power,dodge_cancel,parry_window,guard,flank_bonus
+pip,sword-shield,1,0.34,0.48,1,2.5,168.5217,7,8,0,False,False,0.3521,1.0355,0.55,0.25,Shield,1
+pip,sword-shield,2,0.38,0.48,1.15,2.5,168.5217,7,8,0,False,False,0.38,1,0.55,0.25,Shield,1
+pip,sword-shield,3,0.7,0.55,1.9,3.2,360,3,13,0,False,False,0.7,1,0.55,0.25,Shield,1
+bram,great-axe,1,0.42,0.56,1.15,2.6,219.7538,4,11,0.25,False,False,0.42,1,0.72,0.16,Haft,1
+bram,great-axe,2,0.46,0.35,1.45,2.6,156.9261,4,11,0.5,False,False,0.46,1,0.72,0.16,Haft,1
+bram,great-axe,3,0.88,0.62,2.35,3,360,2,17,0.6,True,False,0.88,1,0.72,0.16,Haft,1
+nix,light-blade,1,0.28,0.55,0.85,2.1,110.4995,9,5,0,False,False,0.28,1,0.32,0.2,Deflect,1.6
+nix,light-blade,2,0.3,0.55,0.9,2.1,110.4995,9,5,0,False,False,0.3,1,0.32,0.2,Deflect,1.6
+nix,light-blade,3,0.52,0.5,1.45,3.1,110.4995,14,9,0.3,False,True,0.52,1,0.32,0.2,Deflect,1.6

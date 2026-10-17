@@ -1,0 +1,4 @@
+file,sample_rate,channels,frames,seconds,peak,rms,loop_edge_delta
+greenreach-score-preview.wav,22050,1,176400,8.0,0.240692,0.040702,0.005585
+hollow-score-preview.wav,22050,1,176400,8.0,0.241058,0.041221,0.005554
+sunscorch-score-preview.wav,22050,1,176400,8.0,0.238556,0.041187,0.005524

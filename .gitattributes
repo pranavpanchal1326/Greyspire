@@ -1,0 +1,22 @@
+* text=auto
+
+# Unity text assets merge as text
+*.cs text diff=csharp
+*.shader text
+*.hlsl text
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+
+# Binary assets
+*.fbx binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.ogg binary
+*.wav binary
+*.playable binary

@@ -1,0 +1,15 @@
+build=greyspire-g8-w01-v1
+content=legacy30-chapter-v3
+save_schema=2
+seed_policy=1
+root_seed=734912
+campaign=75d74802b9e1435a80716fed9ff34529
+unity=6000.5.4f1
+os=Windows 11  (10.0.26200)
+cpu=AMD Ryzen 7 250 w/ Radeon 780M Graphics 
+gpu=NVIDIA GeForce RTX 5060 Laptop GPU
+ram_mb=15674
+render_width=1536
+render_height=672
+quality=2
+antialiasing=4

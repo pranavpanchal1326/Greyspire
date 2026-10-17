@@ -1,0 +1,42 @@
+{
+  "rows": 1769,
+  "events": {
+    "action": 1,
+    "batch_probe": 512,
+    "contact": 3,
+    "despawn": 3,
+    "kill_reward": 2,
+    "player_defeat": 1,
+    "save_commit": 12,
+    "scope_start": 20,
+    "screen": 10,
+    "session_end": 1,
+    "session_start": 1,
+    "stress_probe": 1200,
+    "summary_falls": 1,
+    "summary_hits_taken": 1,
+    "summary_kills": 1
+  },
+  "transitions": 18,
+  "steady_native_counts": {
+    "town": {
+      "owned_assets": "61",
+      "meshes": "311",
+      "materials": "604"
+    },
+    "floor": {
+      "owned_assets": "35",
+      "meshes": "281",
+      "materials": "608"
+    },
+    "wilds": {
+      "owned_assets": "250",
+      "meshes": "386",
+      "materials": "718"
+    }
+  },
+  "csv_escaping": "verified",
+  "event_ids": "unique",
+  "seed_metadata": "verified",
+  "result": "PASS"
+}
