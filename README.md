@@ -36,7 +36,7 @@ The entire world is assembled at run time from C#: one scene, one bootstrap obje
 
 **Combat**
 - Four fighting styles: **sword and shield, great axe, light blade, and bare hands and focus**. Each has its own combos, reach, guard (shield block, axe-haft guard or quick deflect) and parry timing.
-- Stamina, guard, parry, dodge, heavy attacks, throws and lock-on.
+- Guard, parry, dodge, heavy attacks, throws and lock-on.
 - **Enemies that fight together.** An encounter director gives them roles, so attackers take turns while the others flank, guard or throw.
 - **Mop**, a gel companion, takes four orders: follow, assist, hold and solo.
 
